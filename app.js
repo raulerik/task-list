@@ -22,6 +22,6 @@ function addTask(e){
     taskInput.value = '';
     // form submit event control
     e.preventDefault();
-    console.log(li);
+    ;
 }
 
